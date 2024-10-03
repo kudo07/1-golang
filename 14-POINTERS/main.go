@@ -18,3 +18,5 @@ func main() {
 	complexPointer()
 	completePointer()
 }
+
+// go run main.go change.go changeCorrect.go slicee.go pointer.go pointerSlice.go structPointer.go pointerStruct.go pointerStructTwo.go complexPointer.go completePointer.go
